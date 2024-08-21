@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:3001/api';
+export const BASE_URL = 'http://192.168.127.128:70/api';
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
